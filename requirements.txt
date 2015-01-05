@@ -1,0 +1,15 @@
+Django==1.5.5
+Markdown==2.3.1
+PIL==1.1.7
+South==0.8.2
+django-braces==1.2.2
+django-crispy-forms==1.4.0
+django-extra-views==0.6.3
+django-filter==0.7
+django-reversion==1.7.1
+django-xadmin==0.4.0
+djangorestframework==2.3.8
+six==1.4.1
+wsgiref==0.1.2
+xlwt==0.7.5
+DjangoUeditor==1.4.125

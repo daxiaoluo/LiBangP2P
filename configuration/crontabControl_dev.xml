@@ -1,0 +1,11 @@
+<data>
+    <thread className="ComputeInterest">
+        <isRun>False</isRun>
+    </thread>
+    <thread className="ClearCaptcha">
+        <isRun>False</isRun>
+    </thread>
+    <thread className="ClearToken">
+        <isRun>False</isRun>
+    </thread>
+</data>
